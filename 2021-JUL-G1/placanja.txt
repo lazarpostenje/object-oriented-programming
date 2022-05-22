@@ -1,0 +1,17 @@
+30000;Agencija za nekretnine;01.04.2021.;STANOVANJE
+5000;Osiguravajuca kuca "Bolji zivot";15.04.2021.;OSIGURANJE
+3000;Vlada RS;16.04.2021.
+100000;RAF;16.04.2021.
+500;Taksi "Tokyo Drift";03.05.2021.;TRANSPORT
+2000;Gradski prevoz;10.05.2021.;TRANSPORT
+5000;Knjizara "Miroljub";23.05.2021.;EDUKACIJA
+3000;Gospodin Popara;29.05.2021.
+10000;Prodavnica zdrave hrane "Giros";30.05.2021.;HRANA
+7500;Modna kuca "Luj Beton";09.06.2021.;ODECA
+2500;Mesara "Lady Gaga";09.06.2021.;ODECA
+4000;Arandjel Golubovic;09.06.2021.
+3000;Kafana "Kod Zokija";15.06.2021.;ZABAVA
+5000;Riska Golubovic;21.06.2021.
+100;Poreska uprava;18.06.2021.;OSTALO
+350;Pijaca "Gorski vijenac";21.06.2021.;OSTALO
+6000;Ozren Soldatovic;22.06.2021.
