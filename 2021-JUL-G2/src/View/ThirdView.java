@@ -1,7 +1,8 @@
-package View.VBox;
+package View;
 
 import Model.Statistika;
 import View.HBox.DefaultHBox;
+import View.VBox.DefaultVBox;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;

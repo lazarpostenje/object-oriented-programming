@@ -4,7 +4,7 @@ import Controller.Server.Server;
 import Model.Statistika;
 import Model.Zaposleni;
 import View.FirstView;
-import View.VBox.ThirdView;
+import View.ThirdView;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
