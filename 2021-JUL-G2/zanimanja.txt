@@ -1,0 +1,13 @@
+Kuvar,2
+Mesar,1.875
+Pekar,1.222
+Vozač,1.778
+Ložač,1.111
+Hausmajstor,1.556
+Električar,2
+Programer,2.667
+Menadžer,3.111
+PR,1.778
+Direktor,4.222
+Vodoinstalater,1.556
+Mehaničar,1.333
