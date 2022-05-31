@@ -1,0 +1,81 @@
+1,Čitanka 3,3. razred,VULKAN IZDAVAŠTVO,SRPSKI JEZIK,Maja Dimitrijević,686.0,114
+2,Gramatika 3,3. razred,VULKAN IZDAVAŠTVO,SRPSKI JEZIK,Višnja Mićić,Vladimir Vukomanović Rastegorac,891.0,187
+3,Radna sveska uz Čitanku i Gramatiku za treći razred osnovne škole,3. razred,VULKAN IZDAVAŠTVO,SRPSKI JEZIK,Maja Dimitrijević,Višnja Mićić,Vladimir Vukomanović Rastegorac,811.0,160
+4,Čitanka,3. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK, Zorica Cvetanović,Danica Kilibarda,491.0,152
+5,Radna sveska uz Čitanku,3. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Danica Kilibarda,Zorica Cvetanović,866.0,110
+6,Gramatika udžbenik sa radnom sveskom,3. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Mirjana Stakić,802.0,163
+7,Čitanka,3. razred,EDUKA,SRPSKI JEZIK,Ivan Jović,Monja Jović,430.0,124
+8,Pouke o jeziku,3. razred,EDUKA,SRPSKI JEZIK,Ana Iker,Vesna Drezgić,612.0,126
+9,Radna sveska,3. razred,EDUKA,SRPSKI JEZIK,Ivana Juhas,Monja Jović,421.0,145
+10,Čitanka,3. razred,FRESKA,SRPSKI JEZIK,Svetlana Joksimović,760.0,100
+11,Gramatika,3. razred,FRESKA,SRPSKI JEZIK,Svetlana Joksimović,451.0,106
+12,Radna sveska,3. razred,FRESKA,SRPSKI JEZIK,Svetlana Joksimović,789.0,188
+13,Čitanka,3. razred,KREATIVNI CENTAR,SRPSKI JEZIK,Simeon Marinković,Slavica Marković,450.0,175
+14,Srpski jezik,3. razred,KREATIVNI CENTAR,SRPSKI JEZIK,Simeon Marinković,860.0,172
+15,U svetu reči,3. razred,NOVI LOGOS,SRPSKI JEZIK,Maja Kostić,Nataša Stanković Šošo,484.0,101
+16,Dar reči,3. razred,NOVI LOGOS,SRPSKI JEZIK,Jelena Srdić,465.0,115
+17,Radna sveska uz udžbenički komplet,3. razred,NOVI LOGOS,SRPSKI JEZIK,Jelena Srdić,Nataša Stanković Šošo,689.0,183
+18,Matematika 3,3. razred,KLETT,MATEMATIKA,Branislav Popović,Mirjana Kandić,Nenad Vulović,Petar Anokić,443.0,171
+19,Matematika,3. razred,FRESKA,MATEMATIKA,Svetlana Joksimović,500.0,103
+20,Matematika 3 udžbenik,3. razred,KREATIVNI CENTAR,MATEMATIKA,Jasmina Milinković,533.0,144
+21,Matematika 3 radna sveska,3. razred,KREATIVNI CENTAR,MATEMATIKA,Jasmina Milinković,Milana Dabić Boričić,841.0,105
+22,Let′s Move On! 3,3. razred,EDUKA,STRANI JEZIK,Elvira Savai,836.0,148
+23,Playway to English 3,3. razred,KLETT,STRANI JEZIK,Danijela Atanacković,Ginter Gerngros,Herbert Puhta,820.0,197
+24,Super Minds 3,3. razred,KLETT,STRANI JEZIK,Ginter Gerngros,Herbert Puhta,Piter Luis Džons,415.0,100
+25,Happy Trails 1,3. razred,EDUCATIONAL CENTRE,STRANI JEZIK,Jennifer Heath,673.0,194
+26,Wonderful World 1,3. razred,EDUCATIONAL CENTRE,STRANI JEZIK,National Geographic Learning,739.0,151
+27,Happy Street 1,3. razred,THE ENGLISH BOOK,STRANI JEZIK,Lorena Roberts,Stella Maidment,708.0,191
+28,Smiles 3,3. razred,FRESKA,STRANI JEZIK,Jenny Dooley,571.0,194
+29,Priroda i društvo 3,3. razred,VULKAN IZDAVAŠTVO,PRIRODA I DRUŠTVO,Dragica Trivić,Ljiljana Inđić,Vera Bojović,Violeta Bogdanović,857.0,182
+30,Priroda i društvo 3 udžbenik,3. razred,EDUKA,PRIRODA I DRUŠTVO,Brankica Đurić,Marela Manojlović,571.0,195
+31,Priroda i društvo 3 radna sveska,3. razred,EDUKA,PRIRODA I DRUŠTVO,Brankica Đurić,Marela Manojlović,834.0,153
+32,Priroda i društvo 3,3. razred,KLETT,PRIRODA I DRUŠTVO,Simeon Marinković,Slavica Marković,Zorica Nobl,873.0,156
+33,Priroda i društvo 3,3. razred,EDUKA,PRIRODA I DRUŠTVO,dr Danica Kocevska,416.0,124
+34,Priroda i društvo 3 radna sveska,3. razred,EDUKA,PRIRODA I DRUŠTVO,Bojana Balać,Jovan Kocevski,Saša Balać,589.0,176
+35,Priroda i društvo 3,3. razred,FRESKA,PRIRODA I DRUŠTVO,Biljana Gačanović,Nataša Protić,Stevan Jokić,722.0,154
+36,Priroda i društvo 3 udžbenik,3. razred,NOVI LOGOS,PRIRODA I DRUŠTVO,Andrijana Šikl Erski,Marina Munitlak,484.0,174
+37,Priroda i društvo 3 radna sveska,3. razred,NOVI LOGOS,PRIRODA I DRUŠTVO,Andrijana Šikl Erski,Marina Munitlak ,888.0,160
+38,Likovna kultura 3,3. razred,VULKAN IZDAVAŠTVO,LIKOVNA KULTURA,Dušan Stošić,Milena Stojanović Stošić,460.0,146
+39,Likovna kultura 3,3. razred,KREATIVNI CENTAR,LIKOVNA KULTURA,Mirjana Živković,474.0,192
+40,Likovna kultura 3,3. razred,EDUKA,LIKOVNA KULTURA,Maria Buzaši Marganić,Zita Buzaši,551.0,188
+41,Likovna kultura,3. razred,KLETT,LIKOVNA KULTURA,Sanja Filipović,863.0,103
+42,Muzička kultura 3,3. razred,VULKAN IZDAVAŠTVO,MUZIČKA KULTURA,Maja Obradović,549.0,104
+43,Muzička kultura 3,3. razred,KLETT,MUZIČKA KULTURA,Gabrijela Grujić,Maja Sokolović Ignjačević,589.0,189
+44,Muzička slagalica,3. razred,EDUKA,MUZIČKA KULTURA,Mirjana Smrekar Stanković,Sonja Cvetković,883.0,147
+45,Čarobni svet muzike,3. razred,FRESKA,MUZIČKA KULTURA,dr Gordana Ilić,522.0,151
+46,Čitanka sa osnovama pismenosti 2,2. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Aleksandra Stanišić,Danica Kilibarda,Zorica Cvetanović,730.0,181
+47,Radna sveska 2 uz Čitanku,2. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Aleksandra Stanišić,Danica Kilibarda,Zorica Cvetanović,512.0,139
+48,Latinica,2. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Aleksandra Stanišić,Danica Kilibarda,Zorica Cvetanović,401.0,136
+49,U srcu znanja,2. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Jovan Ljuštanović,Zorica Racić,538.0,188
+50,Od glasa do rečenice,2. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Mirjana Stakić,841.0,102
+51,Latinica,2. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Mirjana Stakić,575.0,153
+52,Radna sveska,2. razred,BIGZ ŠKOLSTVO,SRPSKI JEZIK,Jovan Ljuštanović,Mirjana Stakić,Zorica Racić,767.0,124
+53,Čitanka za drugi razred osnovne škole,2. razred,FRESKA,SRPSKI JEZIK,Svetlana Joksimović,700.0,147
+54,Gramatika,2. razred,FRESKA,SRPSKI JEZIK,Svetlana Joksimović,843.0,129
+55,Latinica,2. razred,FRESKA,SRPSKI JEZIK,Svetlana Joksimović,726.0,183
+56,Radna sveska 2,2. razred,FRESKA,SRPSKI JEZIK,Svetlana Joksimović,816.0,154
+57,Zov reči,2. razred,KLETT,SRPSKI JEZIK,Radmila Žeželj,690.0,143
+58,Radna sveska uz Čitanku za drugi razred osnovne škole,2. razred,KLETT,SRPSKI JEZIK,Radmila Žeželj,507.0,111
+59,O jeziku,2. razred,KLETT,SRPSKI JEZIK,Radmila Žeželj,443.0,113
+60,Abecedar,2. razred,KLETT,SRPSKI JEZIK,Radmila Žeželj,618.0,155
+61,Family and Friends Starter,2. razred,NOVI LOGOS,STRANI JEZIK,Naomi Simmons,678.0,194
+62,Alex et Zoe,2. razred,DATA STATUS,STRANI JEZIK,Collette Samson,866.0,154
+63,Smart Junior 2,2. razred,DATA STATUS,STRANI JEZIK,H.Q. Mitchell,Marileni Malkogianni,619.0,152
+64,Das Zauberbuch Starter,2. razred,DATA STATUS,STRANI JEZIK,Amamlia Hallier,Mariagracia Bertarini,Paolo Iotti,828.0,105
+65,Happy Hous 2,2. razred,THE ENGLISH BOOK,STRANI JEZIK,Lorena Roberts,Stella Maidment,827.0,191
+66,Our Discovery Island 1,2. razred,AKRONOLO,STRANI JEZIK,Jeanne Perrett,Linnette Ansel Erocak,570.0,160
+67,New English Adventure – Starter B,2. razred,AKRONOLO,STRANI JEZIK,Cristiana Bruni,Tessa Lochowski,866.0,107
+68,Matematika 2,2. razred,KREATIVNI CENTAR,MATEMATIKA,Vesna Rikalo,674.0,143
+69,Matematika 2 udžbenik,2. razred,KREATIVNI CENTAR,MATEMATIKA,Jasmina Milinković,453.0,107
+70,Matematika 2 radna sveska,2. razred,KREATIVNI CENTAR,MATEMATIKA,Jasmina Milinković,441.0,158
+71,Matematika 2a i 2b,2. razred,EDUKA,MATEMATIKA,Ivana Juhas,590.0,143
+72,Matematika 2a i 2b,2. razred,EDUKA,MATEMATIKA,Ana Iker,Brankica Đurić,Sanja Đekić,Vesna Drezgić,818.0,138
+73,Matematika 2 udžbenik,2. razred,NOVA ŠKOLA,MATEMATIKA,Branislav Milošević,Branko  Marković,Milica Ćuk,535.0,127
+74,Matematika 2 radna sveska,2. razred,NOVA ŠKOLA,MATEMATIKA,Branislav Milošević,Branko  Marković,Milica Ćuk,664.0,181
+75,Matematika za drugi razred,2. razred,GERUNDIJUM,MATEMATIKA,Jasna Blagojević,Siniša Ješić,584.0,167
+76,Radni listovi  iz matematike,2. razred,GERUNDIJUM,MATEMATIKA,Ivana Cmiljanović Kosovac,Jasna Blagojević,Siniša Ješić,614.0,191
+77,Svet oko nas udžbenik,2. razred,NOVA ŠKOLA,SVET OKO NAS,Ivko Nikolić,Jasmina Krnjajić,Milica Ćuk,464.0,147
+78,Svet oko nas radna sveska,2. razred,NOVA ŠKOLA,SVET OKO NAS,Ivko Nikolić,Jasmina Krnjajić,Milica Ćuk,567.0,175
+79,Svet oko nas udžbenik,2. razred,GERUNDIJUM,SVET OKO NAS,Biljana Popović,Ivana Cmiljanović Kosovac,844.0,140
+80,Radni listovi  za Svet oko nas,2. razred,GERUNDIJUM,SVET OKO NAS,Biljana Popović,Ivana Cmiljanović Kosovac,587.0,177
+81,Svet oko nas 2 udžbenik,2. razred,KLETT,SVET OKO NAS,Dragica Milovanović,Zoran B. Gavrić,428.0,110
